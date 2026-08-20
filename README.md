@@ -13,6 +13,6 @@ Still learning new tricks, still occasionally breaking my own code and calling i
 
 **Elsewhere:**
 - Portfolio: [grishmagajurel.com](https://www.grishmagajurel.com/) *(see [`PortfolioWebsite`](https://github.com/grizz6/PortfolioWebsite))*
-- LinkedIn: [grishma-gajurel](https://www.linkedin.com/in/grishma-gajurel-54891a2b5/)
+- LinkedIn: [Griz](https://www.linkedin.com/in/grishma-gajurel-54891a2b5/)
 
 Stay Curious. Stay Awesome.
