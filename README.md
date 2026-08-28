@@ -1,4 +1,3 @@
-# Grishma Gajurel
 
 Python, R, SQL, JavaScript.
 
